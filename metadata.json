@@ -1,0 +1,6 @@
+{
+  "name": "Tap the Circle",
+  "description": "Fast-paced neon arcade reflex game. Tap as many circles as you can in 30 seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
